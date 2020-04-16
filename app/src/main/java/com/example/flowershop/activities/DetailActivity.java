@@ -1,4 +1,4 @@
-package com.example.flowershop;
+package com.example.flowershop.activities;
 
 import android.content.ContentUris;
 import android.content.ContentValues;
@@ -22,6 +22,7 @@ import androidx.loader.app.LoaderManager;
 import androidx.loader.content.CursorLoader;
 import androidx.loader.content.Loader;
 
+import com.example.flowershop.R;
 import com.example.flowershop.data.FlowersContract;
 import com.example.flowershop.data.Utilities;
 

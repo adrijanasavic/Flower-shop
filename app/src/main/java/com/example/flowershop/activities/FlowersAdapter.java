@@ -1,4 +1,4 @@
-package com.example.flowershop;
+package com.example.flowershop.activities;
 
 import android.content.ContentUris;
 import android.content.ContentValues;
@@ -13,6 +13,7 @@ import android.widget.ImageButton;
 import android.widget.ImageView;
 import android.widget.TextView;
 
+import com.example.flowershop.R;
 import com.example.flowershop.data.Utilities;
 
 import static com.example.flowershop.data.FlowersContract.*;
